@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rohadie Dwi Junianto
+# 👋 Hi, I'm Rohadi Dwi Junianto
 
 🎓 Informatics Graduate
 💻 Junior Software Engineer | Backend & Security Enthusiast
