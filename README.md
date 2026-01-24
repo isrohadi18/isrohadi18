@@ -19,7 +19,7 @@
 
 > **Software Development Tools**
 
-<p align="left" style="padding:10px">
+<p align="left" style="padding:10px 0px 10px 20px">
 <img alt="HTML, CSS, JAVASCRIPT, ARDUINO, JAVA,PHP, TAILWIND, MYSQL, VSCODE" style="margin-left:10px" width="380px" src="https://skillicons.dev/icons?i=html,css,js,arduino,java,php,tailwind,vscode&perline=&theme=light" />
 <img style="margin-left:10px;" width="41px" src="icons/phpmysql.png">
 <img style="margin-left:10px;" width="41px" src="icons/netbeans.png">
@@ -27,13 +27,12 @@
 
 > **UI/UX & Digital Design Tools**
 
-<p align="left" style="padding:10px">
+<p align="left" style="padding:10px 0px 20px 20px">
 <img style="margin-left:10px" width="41px" src="icons/canva.png">
 <img style="margin-left:5px;" width="41px" src="icons/visio.png">
 <img alt="HTML" width="136px" style="margin-left:5px" src="https://skillicons.dev/icons?i=ps,ai,figma&perline=&theme=light" /> 
 <img style="margin-left:5px;" width="41px" src="icons/coreldrawx7.png">
 </p>
-<br>
 
 ---
 
@@ -49,22 +48,24 @@
 
 > **Social Media**
 
-<a href="https://www.instagram.com/isrohadii_0" target="_blank" rel="noopener noreferrer">
-  <img alt="instagram" width="50" style="padding-left:10px" src="icons/sm/Instagram-02.png"/>
-</a>
+<div style="padding:15px 0px 0px 10px ">
+  <a href="https://www.instagram.com/isrohadii_0" target="_blank" rel="noopener noreferrer">
+    <img alt="instagram" width="50" style="padding-left:10px" src="icons/sm/Instagram-02.png"/>
+  </a>
 
-<a href="https://web.facebook.com/Roohadi.DJ" target="_blank" rel="nopener noreferrer">
-  <img alt="facebook" width="50" style="padding-left:10px" src="icons/sm/facebook-02.png"/>
-</a>
+  <a href="https://web.facebook.com/Roohadi.DJ" target="_blank" rel="nopener noreferrer">
+    <img alt="facebook" width="50" style="padding-left:10px" src="icons/sm/facebook-02.png"/>
+  </a>
 
-<a herf="https://x.com/isrohadi_0" target="_blank" rel="nopener noreferrer">
-  <img alt="x" width="50" style="padding-left:10px" src="icons/sm/x-02.png"/>
-</a>
+  <a herf="https://x.com/isrohadi_0" target="_blank" rel="nopener noreferrer">
+    <img alt="x" width="50" style="padding-left:10px" src="icons/sm/x-02.png"/>
+  </a>
 
-<a herf="" target="_blank" rel="nopener noreferrer">
-  <img alt="linked" width="50" style="padding-left:10px" src="icons/sm/linked-02.png"/>
-</a>
+  <a herf="" target="_blank" rel="nopener noreferrer">
+    <img alt="linked" width="50" style="padding-left:10px" src="icons/sm/linked-02.png"/>
+  </a>
 
-<a herf="" target="_blank" rel="nopener noreferrer">
-  <img alt="email" width="50" style="padding-left:10px" src="icons/sm/email-02.png"/>
-</a>
+  <a herf="" target="_blank" rel="nopener noreferrer">
+    <img alt="email" width="50" style="padding-left:10px" src="icons/sm/email-02.png"/>
+  </a>
+</div>
