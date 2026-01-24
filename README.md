@@ -19,19 +19,19 @@
 
 > **Software Development Tools**
 
-<p align="center" style="padding:10px">
-<img alt="HTML, CSS, JAVASCRIPT, ARDUINO, JAVA,PHP, TAILWIND, MYSQL, VSCODE" width="380px" src="https://skillicons.dev/icons?i=html,css,js,arduino,java,php,tailwind,vscode&perline=&theme=light" />
-<img style="margin-left:3px;" width="41px" src="icons/phpmysql.png">
-<img style="margin-left:3px;" width="41px" src="icons/netbeans.png">
+<p align="left" style="padding:10px">
+<img alt="HTML, CSS, JAVASCRIPT, ARDUINO, JAVA,PHP, TAILWIND, MYSQL, VSCODE" style="margin-left:10px" width="380px" src="https://skillicons.dev/icons?i=html,css,js,arduino,java,php,tailwind,vscode&perline=&theme=light" />
+<img style="margin-left:10px;" width="41px" src="icons/phpmysql.png">
+<img style="margin-left:10px;" width="41px" src="icons/netbeans.png">
 </p>
 
 > **UI/UX & Digital Design Tools**
 
-<p align="center" style="padding:10px">
-<img style="margin-left:3px;" width="41px" src="icons/canva.png">
-<img style="margin-left:3px;" width="41px" src="icons/visio.png">
-<img alt="HTML" width="136px" src="https://skillicons.dev/icons?i=ps,ai,figma&perline=&theme=light" /> 
-<img style="margin-left:3px;" width="41px" src="icons/coreldrawx7.png">
+<p align="left" style="padding:10px">
+<img style="margin-left:10px" width="41px" src="icons/canva.png">
+<img style="margin-left:5px;" width="41px" src="icons/visio.png">
+<img alt="HTML" width="136px" style="margin-left:5px" src="https://skillicons.dev/icons?i=ps,ai,figma&perline=&theme=light" /> 
+<img style="margin-left:5px;" width="41px" src="icons/coreldrawx7.png">
 </p>
 
 ---
@@ -50,15 +50,15 @@
 
 #### Social Media
 
-<a href="" target="_blank" rel="noopener noreferrer">
+<a href="https://www.instagram.com/isrohadii_0" target="_blank" rel="noopener noreferrer">
   <img alt="Alt text" width="50" style="padding-left:10px" src="icons/sm/Instagram-02.png"/>
 </a>
 
-<a href="" target="_blank" rel="nopener noreferrer">
+<a href="https://web.facebook.com/Roohadi.DJ" target="_blank" rel="nopener noreferrer">
   <img alt="Alt text" width="50" style="padding-left:10px" src="icons/sm/facebook-02.png"/>
 </a>
 
-<a herf="" target="_blank" rel="nopener noreferrer">
+<a herf="https://x.com/isrohadi_0" target="_blank" rel="nopener noreferrer">
   <img alt="Alt text" width="50" style="padding-left:10px" src="icons/sm/x-02.png"/>
 </a>
 
