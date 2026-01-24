@@ -52,22 +52,22 @@
 
 <div style="padding:15px 0px 0px 10px ">
   <a href="https://www.instagram.com/isrohadii_0" target="_blank" rel="noopener noreferrer">
-    <img alt="instagram" width="50" style="padding-left:10px" src="icons/sm/Instagram-02.png"/>
+    <img alt="instagram" width="50" style="padding-left:30px" src="icons/sm/Instagram-02.png"/>
   </a>
 
   <a href="https://web.facebook.com/Roohadi.DJ" target="_blank" rel="noopener noreferrer">
-    <img alt="facebook" width="50" style="padding-left:10px" src="icons/sm/facebook-02.png"/>
+    <img alt="facebook" width="50" style="padding-left:30px" src="icons/sm/facebook-02.png"/>
   </a>
 
   <a href="https://x.com/isrohadi_0" target="_blank" rel="noopener noreferrer">
-    <img alt="x" width="50" style="padding-left:10px" src="icons/sm/x-02.png"/>
+    <img alt="x" width="50" style="padding-left:30px" src="icons/sm/x-02.png"/>
   </a>
 
   <a href="" target="_blank" rel="noopener noreferrer">
-    <img alt="linked" width="50" style="padding-left:10px" src="icons/sm/linked-02.png"/>
+    <img alt="linked" width="50" style="padding-left:30px" src="icons/sm/linked-02.png"/>
   </a>
 
   <a href="" target="_blank" rel="noopener noreferrer">
-    <img alt="email" width="50" style="padding-left:10px" src="icons/sm/email-02.png"/>
+    <img alt="email" width="50" style="padding-left:30px" src="icons/sm/email-02.png"/>
   </a>
 </div>
