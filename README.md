@@ -50,31 +50,10 @@
 
 > **Social Media**
 
-<br>
-<a href="https://www.instagram.com/isrohadii_0" target="_blank" rel="noopener noreferrer"><img src="icons/sm/Instagram-02.png" alt="instagram" width="50" style="padding-left:30px"/></a>
-
-  <a href="https://web.facebook.com/Roohadi.DJ" target="_blank" rel="noopener noreferrer">
-    <img src="icons/sm/facebook-02.png" alt="facebook" width="50" style="padding-left:30px"/>
-  </a>
-
-  <a href="https://x.com/isrohadi_0" target="_blank" rel="noopener noreferrer">
-    <img src="icons/sm/x-02.png" alt="x" width="50" style="padding-left:30px"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/isrohadii18/" target="_blank" rel="noopener noreferrer">
-    <img src="icons/sm/linked-02.png" alt="linked" width="50" style="padding-left:30px"/>
-  </a>
-
-  <a href="" target="_blank" rel="noopener noreferrer">
-    <img src="icons/sm/email-02.png" alt="email" width="50" style="padding-left:30px"/>
-  </a>
-
-<p align="left">
-  <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/USER/REPO/main/icons/sm/Instagram-02.png" width="45" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://facebook.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/USER/REPO/main/icons/sm/facebook-02.png" width="45" />
-  </a>
+<p align="left" style="padding:10px 0px 20px 20px">
+  <a href="https://www.instagram.com/isrohadii_0" target="_blank" rel="noopener noreferrer"><img src="icons/sm/Instagram-02.png" alt="instagram" width="50"/></a>
+  <a href="https://web.facebook.com/Roohadi.DJ" target="_blank" rel="noopener noreferrer"><img src="icons/sm/facebook-02.png" alt="facebook" width="50"/></a>
+  <a href="https://x.com/isrohadi_0" target="_blank" rel="noopener noreferrer"><img src="icons/sm/x-02.png" alt="x" width="50"/></a>
+  <a href="https://www.linkedin.com/in/isrohadii18/" target="_blank" rel="noopener noreferrer"><img src="icons/sm/linked-02.png" alt="linked" width="50"/></a>
+  <a href="mailto:hahahaha@gmail.com" target="_blank" rel="noopener noreferrer"><img src="icons/sm/email-02.png" alt="email" width="50"/></a>
 </p>
