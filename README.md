@@ -50,19 +50,9 @@
 > **Social Media**
 
 <p align="left" style="padding:10px 0px 20px 20px">
-  <a href="https://www.instagram.com/isrohadii_0" target="_blank" rel="noopener noreferrer">
-    <img src="icons/soscmed/Instagram-02.png" alt="instagram" width="50"/>
-  </a>
-  <a href="https://web.facebook.com/Roohadi.DJ" target="_blank" rel="noopener noreferrer">
-    <img src="icons/soscmed/facebook-02.png" alt="facebook" width="50"/>
-  </a>
-  <a href="https://x.com/isrohadi_0" target="_blank" rel="noopener noreferrer">
-    <img src="icons/soscmed/x-02.png" alt="x" width="50"/>
-  </a>
-  <a href="https://www.linkedin.com/in/isrohadii18/" target="_blank" rel="noopener noreferrer">
-    <img src="icons/soscmed/linked-02.png" alt="linked" width="50"/>
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rohadii861@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="icons/soscmed/email-02.png" alt="email" width="50"/>
-  </a>
+  <a href="https://www.instagram.com/isrohadii_0" target="_blank" rel="noopener noreferrer"><img src="icons/soscmed/Instagram-02.png" alt="instagram" width="50"/></a>
+  <a href="https://web.facebook.com/Roohadi.DJ" target="_blank" rel="noopener noreferrer"><img src="icons/soscmed/facebook-02.png" alt="facebook" width="50"/></a>
+  <a href="https://x.com/isrohadi_0" target="_blank" rel="noopener noreferrer"><img src="icons/soscmed/x-02.png" alt="x" width="50"/></a>
+  <a href="https://www.linkedin.com/in/isrohadii18/" target="_blank" rel="noopener noreferrer"><img src="icons/soscmed/linked-02.png" alt="linked" width="50"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rohadii861@gmail.com" target="_blank" rel="noopener noreferrer"><img src="icons/soscmed/email-02.png" alt="email" width="50"/></a>
 </p>
