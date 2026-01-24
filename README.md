@@ -33,10 +33,11 @@
 <img alt="HTML" width="136px" style="margin-left:5px" src="https://skillicons.dev/icons?i=ps,ai,figma&perline=&theme=light" /> 
 <img style="margin-left:5px;" width="41px" src="icons/coreldrawx7.png">
 </p>
+<br>
 
 ---
 
-#### Featured Projects
+> **Featured Projects**
 
 **`🌐 Responsive Website`** **`🔐 Java Security Application`** **`💻 Others`**
 
@@ -46,26 +47,24 @@
     </a>
 </p>
 
----
-
-#### Social Media
+> **Social Media**
 
 <a href="https://www.instagram.com/isrohadii_0" target="_blank" rel="noopener noreferrer">
-  <img alt="Alt text" width="50" style="padding-left:10px" src="icons/sm/Instagram-02.png"/>
+  <img alt="instagram" width="50" style="padding-left:10px" src="icons/sm/Instagram-02.png"/>
 </a>
 
 <a href="https://web.facebook.com/Roohadi.DJ" target="_blank" rel="nopener noreferrer">
-  <img alt="Alt text" width="50" style="padding-left:10px" src="icons/sm/facebook-02.png"/>
+  <img alt="facebook" width="50" style="padding-left:10px" src="icons/sm/facebook-02.png"/>
 </a>
 
 <a herf="https://x.com/isrohadi_0" target="_blank" rel="nopener noreferrer">
-  <img alt="Alt text" width="50" style="padding-left:10px" src="icons/sm/x-02.png"/>
+  <img alt="x" width="50" style="padding-left:10px" src="icons/sm/x-02.png"/>
 </a>
 
 <a herf="" target="_blank" rel="nopener noreferrer">
-  <img alt="Alt text" width="50" style="padding-left:10px" src="icons/sm/linked-02.png"/>
+  <img alt="linked" width="50" style="padding-left:10px" src="icons/sm/linked-02.png"/>
 </a>
 
 <a herf="" target="_blank" rel="nopener noreferrer">
-  <img alt="Alt text" width="50" style="padding-left:10px" src="icons/sm/email-02.png"/>
+  <img alt="email" width="50" style="padding-left:10px" src="icons/sm/email-02.png"/>
 </a>
