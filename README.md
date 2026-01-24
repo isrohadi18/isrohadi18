@@ -41,10 +41,12 @@
 **`🌐 Responsive Website`** **`🔐 Java Security Application`** **`💻 Others`**
 
 <p align="center">
-    <a href="https://github.com/isrohadi18?" target="_blank" rel="noopener noreferrer">
-      <img src="https://render.gitanimals.org/lines/isrohadi18?pet-id=657051833278790750" width="600" height="150" />
-    </a>
+  <a href="https://github.com/isrohadi18?" target="_blank" rel="noopener noreferrer">
+    <img src="https://render.gitanimals.org/lines/isrohadi18?pet-id=657051833278790750" width="600" height="250" />
+  </a>
 </p>
+
+---
 
 > **Social Media**
 
@@ -53,19 +55,19 @@
     <img alt="instagram" width="50" style="padding-left:10px" src="icons/sm/Instagram-02.png"/>
   </a>
 
-  <a href="https://web.facebook.com/Roohadi.DJ" target="_blank" rel="nopener noreferrer">
+  <a href="https://web.facebook.com/Roohadi.DJ" target="_blank" rel="noopener noreferrer">
     <img alt="facebook" width="50" style="padding-left:10px" src="icons/sm/facebook-02.png"/>
   </a>
 
-  <a herf="https://x.com/isrohadi_0" target="_blank" rel="nopener noreferrer">
+  <a href="https://x.com/isrohadi_0" target="_blank" rel="noopener noreferrer">
     <img alt="x" width="50" style="padding-left:10px" src="icons/sm/x-02.png"/>
   </a>
 
-  <a herf="" target="_blank" rel="nopener noreferrer">
+  <a href="" target="_blank" rel="noopener noreferrer">
     <img alt="linked" width="50" style="padding-left:10px" src="icons/sm/linked-02.png"/>
   </a>
 
-  <a herf="" target="_blank" rel="nopener noreferrer">
+  <a href="" target="_blank" rel="noopener noreferrer">
     <img alt="email" width="50" style="padding-left:10px" src="icons/sm/email-02.png"/>
   </a>
 </div>
