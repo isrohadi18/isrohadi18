@@ -50,24 +50,31 @@
 
 > **Social Media**
 
-<div style="padding:15px 0px 0px 10px ">
-  <a href="https://www.instagram.com/isrohadii_0" target="_blank" rel="noopener noreferrer">
-    <img alt="instagram" width="50" style="padding-left:30px" src="icons/sm/Instagram-02.png"/>
-  </a>
+<br>
+<a href="https://www.instagram.com/isrohadii_0" target="_blank" rel="noopener noreferrer"><img src="icons/sm/Instagram-02.png" alt="instagram" width="50" style="padding-left:30px"/></a>
 
   <a href="https://web.facebook.com/Roohadi.DJ" target="_blank" rel="noopener noreferrer">
-    <img alt="facebook" width="50" style="padding-left:30px" src="icons/sm/facebook-02.png"/>
+    <img src="icons/sm/facebook-02.png" alt="facebook" width="50" style="padding-left:30px"/>
   </a>
 
   <a href="https://x.com/isrohadi_0" target="_blank" rel="noopener noreferrer">
-    <img alt="x" width="50" style="padding-left:30px" src="icons/sm/x-02.png"/>
+    <img src="icons/sm/x-02.png" alt="x" width="50" style="padding-left:30px"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/isrohadii18/" target="_blank" rel="noopener noreferrer">
+    <img src="icons/sm/linked-02.png" alt="linked" width="50" style="padding-left:30px"/>
   </a>
 
   <a href="" target="_blank" rel="noopener noreferrer">
-    <img alt="linked" width="50" style="padding-left:30px" src="icons/sm/linked-02.png"/>
+    <img src="icons/sm/email-02.png" alt="email" width="50" style="padding-left:30px"/>
   </a>
 
-  <a href="" target="_blank" rel="noopener noreferrer">
-    <img alt="email" width="50" style="padding-left:30px" src="icons/sm/email-02.png"/>
+<p align="left">
+  <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/USER/REPO/main/icons/sm/Instagram-02.png" width="45" />
   </a>
-</div>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://facebook.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/USER/REPO/main/icons/sm/facebook-02.png" width="45" />
+  </a>
+</p>
