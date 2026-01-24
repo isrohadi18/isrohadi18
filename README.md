@@ -1,36 +1,71 @@
-# 👋 Hi, I'm Rohadi Dwi Junianto
+<div align="center">
 
-🎓 Informatics Graduate
-💻 Junior Software Engineer | Backend & Security Enthusiast
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="70" height="70" />
 
----
+<h3 style="margin-bottom: 0;">Hello, isrohadi18 GitHub</h3>
+<p style="margin-top: 5px;">
+  <code>I'm from Indonesia (Fullstack Development/Graphic Design)</code>
+</p>
 
-## 🚀 About Me
-I'm an Informatics graduate interested in web software development, backend systems, application development, and basic cybersecurity. I enjoy building applications using HTML, CSS, PHP, Java, and web technologies. I also possess skills in graphic design.
-
----
-
-## 🛠 Technology Stack
-- 💻 Programming Languages: HTML, CSS, Java, PHP, JavaScript
-- 🗄️ Database: MySQL
-- 🔐 Security: AES and BCrypt Cryptographic Algorithms
-- 🧰 Tools:
-1. Software Code: NetBeans, VS Code, GitHub, Git
-2. Software Design: Adobe Illustrator, Photoshop, Microsoft Visio
+</div>
 
 ---
 
-## 📌 Featured Projects
-- 🔐 **CryptoFileAES** — Java application for file encryption using AES
-- 📊 **AES Graphical Statistics** — Data visualization of the AES encryption process
-- 🌐 **Website Monitoring** — Simple web-based monitoring system
+### Hi welcome to my worksheet
+
+**`Am I an expert ?`** No, I'm a person who will continue to improve, inspired by AI chatbots and YouTube tutorials. But I'm obsessed with becoming better, my own version. If you care about the spacing between lines of code and the semicolons in code, let's talk.
+
+<br>
+
+> **Software Development Tools**
+
+<p align="center" style="padding:10px">
+<img alt="HTML, CSS, JAVASCRIPT, ARDUINO, JAVA,PHP, TAILWIND, MYSQL, VSCODE" width="380px" src="https://skillicons.dev/icons?i=html,css,js,arduino,java,php,tailwind,vscode&perline=&theme=light" />
+<img style="margin-left:3px;" width="41px" src="icons/phpmysql.png">
+<img style="margin-left:3px;" width="41px" src="icons/netbeans.png">
+</p>
+
+> **UI/UX & Digital Design Tools**
+
+<p align="center" style="padding:10px">
+<img style="margin-left:3px;" width="41px" src="icons/canva.png">
+<img style="margin-left:3px;" width="41px" src="icons/visio.png">
+<img alt="HTML" width="136px" src="https://skillicons.dev/icons?i=ps,ai,figma&perline=&theme=light" /> 
+<img style="margin-left:3px;" width="41px" src="icons/coreldrawx7.png">
+</p>
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: your-email@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/yourusername
+#### Featured Projects
+
+**`🌐 Responsive Website`** **`🔐 Java Security Application`** **`💻 Others`**
+
+<p align="center">
+    <a href="https://github.com/isrohadi18?" target="_blank" rel="noopener noreferrer">
+      <img src="https://render.gitanimals.org/lines/isrohadi18?pet-id=657051833278790750" width="600" height="150" />
+    </a>
+</p>
 
 ---
 
-⭐ Please check out my repository and projects!
+#### Social Media
+
+<a href="" target="_blank" rel="noopener noreferrer">
+  <img alt="Alt text" width="50" style="padding-left:10px" src="icons/sm/Instagram-02.png"/>
+</a>
+
+<a href="" target="_blank" rel="nopener noreferrer">
+  <img alt="Alt text" width="50" style="padding-left:10px" src="icons/sm/facebook-02.png"/>
+</a>
+
+<a herf="" target="_blank" rel="nopener noreferrer">
+  <img alt="Alt text" width="50" style="padding-left:10px" src="icons/sm/x-02.png"/>
+</a>
+
+<a herf="" target="_blank" rel="nopener noreferrer">
+  <img alt="Alt text" width="50" style="padding-left:10px" src="icons/sm/linked-02.png"/>
+</a>
+
+<a herf="" target="_blank" rel="nopener noreferrer">
+  <img alt="Alt text" width="50" style="padding-left:10px" src="icons/sm/email-02.png"/>
+</a>
