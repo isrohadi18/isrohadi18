@@ -37,7 +37,8 @@
 
 > **Featured Projects**
 
-[**`🌐 Responsive Website`**](https://github.com/isrohadi18/crypto-file-aes-bcrypt) **`🔐 Java Security Application`** **`💻 Others`**
+&nbsp;
+[![Responsive Website](https://img.shields.io/badge/🌐%20Responsive%20Website-blue?style=for-the-badge)](https://github.com/namauser/crypto-file-aes-bcrypt) ![Java Security Application](https://img.shields.io/badge/🔐%20Java%20Security%20Application-darkgreen?style=for-the-badge) ![Other Project](https://img.shields.io/badge/💻%20Other%20projects-gray?style=for-the-badge)
 
 <p align="center">
   <a href="https://github.com/isrohadi18?tab=repositories" target="_blank" rel="noopener noreferrer">
