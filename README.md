@@ -1,9 +1,7 @@
 <div align="center">
-  <img src="icons/gif/1.gif" alt="Ghost" width="150" />
-  <h3 style="margin-bottom: 0px">Hello, isrohadi18 GitHub</h3>
-  <p style="margin-top: 0px">
-    <code>I'm from Indonesia (Fullstack Development/Graphic Design)</code>
-  </p>
+  <img src="icons/gif/1.gif" alt="animatedgif" width="100" />
+  <h3>Hello, isrohadi18 GitHub</h3>
+  <code>I'm from Indonesia (Fullstack Development/Graphic Design)</code>
 </div>
 
 ---
