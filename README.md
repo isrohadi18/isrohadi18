@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="icons/gif/Error 404.gif" alt="animatedgif" width="100" />
+  <img src="icons/gif/Error 404.gif" alt="animatedgif" width="120" />
   
   ### **Hello, isrohadi18 GitHub**
   **`I'm from Indonesia (Fullstack Development/Graphic Design)`**
