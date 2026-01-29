@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="70" height="70" />
+  <img src="https://github.com/AmbrishTripathi6974/SP-XD/raw/main/images/dev-working_rounded.gif?raw=true" alt="CoDiNg RocKs" style="max-width: 30%; display: inline-block;" data-target="animated-image.originalImage">
   <h3 style="margin-bottom: 0px">Hello, isrohadi18 GitHub</h3>
   <p style="margin-top: 0px">
     <code>I'm from Indonesia (Fullstack Development/Graphic Design)</code>
