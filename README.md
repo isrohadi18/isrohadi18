@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/AmbrishTripathi6974/SP-XD/raw/main/images/dev-working_rounded.gif?raw=true" alt="CoDiNg RocKs" style="max-width: 30%; display: inline-block;" data-target="animated-image.originalImage">
+  <img src="icons/gif/1.gif" alt="Ghost" width="100" />
   <h3 style="margin-bottom: 0px">Hello, isrohadi18 GitHub</h3>
   <p style="margin-top: 0px">
     <code>I'm from Indonesia (Fullstack Development/Graphic Design)</code>
