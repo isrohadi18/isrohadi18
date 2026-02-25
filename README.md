@@ -9,7 +9,9 @@
 
 ### Hi welcome to my worksheet
 
-**`Am I an expert ?`** No, I'm a person who will continue to improve, inspired by AI chatbots and YouTube tutorials. But I'm obsessed with becoming better, my own version. If you care about the spacing between lines of code and the semicolons in code, let's talk.
+**`Am I an expert?`** No, I'm a developer who continually updates myself, focusing on functional application development, and possessing a strong understanding of multiple programming languages. I have experience developing full-stack applications, including front-end interface design, back-end system management, and database integration. The projects I've worked on are based on real-world needs, such as file security applications, management systems, and web-based platforms.
+If you care about code structure, neatness, or even small details like spacing and semicolons—let's discuss.
+
 
 &nbsp;
 
